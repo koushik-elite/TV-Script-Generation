@@ -65,6 +65,10 @@ cd TV-Script-Generation
 ```
 pip install -r requirements.txt
 ```
+Or
+```
+conda install --yes --file requirements.txt
+```
 
 4. That's it!, Now run the project using following command, check you default browser and open dlnd_tv_script_generation.ipynb file
 
